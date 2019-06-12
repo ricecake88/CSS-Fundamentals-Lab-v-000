@@ -19,7 +19,7 @@ nav a {
   text-align:center;
 }
 
-#featured-property {
+#featured-property figcaption{
   font-size: 10px;
 }
 .clearfix {
