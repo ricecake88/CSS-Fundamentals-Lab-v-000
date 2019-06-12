@@ -1,6 +1,6 @@
 header {
   margin: 0 auto;
-  width: 900px;
+  width: 70%;
   text-align:center;
 }
 nav {
@@ -16,15 +16,7 @@ nav a {
   display: block;
   margin: 0 auto;
   width: 70%;
-}
-
-#featured-property figcaption{
-  font-size: 10px;
-}
-
-#featured-property p {
-  width: 800px;
-  text-align: center;
+  text-align:center;
 }
 
 .clearfix {
