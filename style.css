@@ -19,6 +19,9 @@ nav a {
   text-align:center;
 }
 
+#featured-property {
+  font-size: 10px;
+}
 .clearfix {
   clear: both;
 }
