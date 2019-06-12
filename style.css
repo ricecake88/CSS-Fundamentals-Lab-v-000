@@ -47,8 +47,5 @@ nav a {
   display: inline-block;
   width: 25%;
   border: 1px black solid;
-  padding: 0px;
-  margin: 0px;
-  left:0px;
   font-size: 14px;
 }
