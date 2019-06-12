@@ -19,8 +19,13 @@ nav a {
   text-align:center;
 }
 
-#featured-property {
+#featured-property figcaption{
   font-size: 10px;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
 }
 
 .clearfix {
