@@ -38,9 +38,8 @@ nav a {
   display: block;
   text-align:center;
   background-color: red;
-  border: 1px black solid;
-  margin: 0px;
-  font-size: 0;
+  font-size: 0px;
+
 }
 
 #details div {
