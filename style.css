@@ -38,6 +38,7 @@ nav a {
   display: block;
   text-align:center;
   background-color: red;
+  border: 1xp solid black;
 }
 
 #details div {
